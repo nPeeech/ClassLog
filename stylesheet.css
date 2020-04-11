@@ -1,0 +1,59 @@
+body {
+  font-family: "Avenir Next";
+}
+
+.header-menu {
+  list-style: none;
+  float: right;
+  /* 上下のpaddingを33px、左右のpaddingを20pxにしてください */
+  padding: 66px 20px;
+  font-size: 36px;
+  color: #fff;
+  
+}
+
+.header {
+  background-color: #536de0;
+  color: #fff;
+  height: 180px;
+  box-shadow: 5px 5px gray;
+}
+
+.header-logo {
+  float: left;
+  font-size: 72px;
+  /* 上下のpaddingを20px、左右のpaddingを40pxにしてください */
+  padding: 40px 40px;
+  color: #fff;
+  
+}
+
+
+.contents{
+  font-size: 36px;
+  background-color: rgb(6, 114, 141);
+  color: #fff;
+  width: 80%;
+  height: 50px;
+  padding: 15px 15px;
+  margin: 40px auto;
+  display: inline-block;
+  box-shadow: 5px 5px gray;
+}
+
+.footer {
+  background-color: #ceccf3;
+  height: 270px;
+}
+
+.video-title {
+  font-size: 36px;
+  background-color: rgb(6, 114, 141);
+  color: #fff;
+  width: 80%;
+  height: 50px;
+  padding: 15px 15px;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  display: inline-block;
+}
